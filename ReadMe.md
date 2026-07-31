@@ -1,27 +1,156 @@
-# 💫 About Me:
-😎 I am Software Engineer with a passion for Science and Technology<br>📬 Shoot me an Email or add me on LinkedIn 😊
+<div align="center">
 
+# Hi 👋 I'm Akshat Gadodia
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/akshat.gadodia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshat_gadodia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-gadodia) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19216700) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@akshatgadodia9832) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Engineer;Python+%7C+Django+Developer;Cloud+%26+DevOps+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat&logo=Prezi&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshatgadodia&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshatgadodia&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgadodia&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### Backend Engineer • Cloud • DevOps • AI Enthusiast
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshatgadodia&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+Building scalable backend systems with **Python, Django, React, PostgreSQL, Docker & Kubernetes**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p>
+<a href="https://linkedin.com/in/akshat-gadodia">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 😂 Random Dev Meme
-<img src="https://random-programming-meme-generator.vercel.app/" width="512px"/>
+<a href="https://financemanager.studiobyakshatgadodia.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@akshatgadodia9832">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/19216700">
+<img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=akshatgadodia&style=for-the-badge"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshatgadodia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+- 💻 Backend Engineer passionate about building scalable and reliable applications.
+- 🐍 Specialized in **Python, Django & Django REST Framework**.
+- ⚛️ Building modern frontends using **React**.
+- ☁️ Experienced with **Docker, Kubernetes, Linux, Nginx, CI/CD & Cloud Infrastructure**.
+- 🤖 Exploring **LLMs, RAG, Vector Databases and AI Applications**.
+- 📚 Currently mastering **Data Structures & Algorithms**.
+- 🏆 **Best Performer in Projects Award 2026**.
+- 🌱 Always learning new technologies and building side projects.
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,solidity"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,spring"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,nginx,git,githubactions"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,notion,vercel"/>
+
+</div>
+
+---
+
+# 🚧 Currently Building
+
+### 💰 Finance Manager
+
+A modern personal finance management platform built with **Django, React & PostgreSQL**.
+
+🌐 **Live:** https://financemanager.studiobyakshatgadodia.com
+
+---
+
+### 🏠 Personal Hub
+
+A centralized dashboard for managing personal tools, utilities and web applications.
+
+🌐 **Live:** https://personalhub.studiobyakshatgadodia.com
+
+---
+
+### 🤖 AI Experiments
+
+Learning and building applications using **LLMs, Retrieval-Augmented Generation (RAG), Vector Databases and Milvus**.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatgadodia&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgadodia&theme=tokyonight&hide_border=true" width="60%" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshatgadodia&theme=tokyonight&utcOffset=5.5" width="39%" height="180" />
+</p>
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Akshat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akshatgadodia&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/akshat-gadodia">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/akshatgadodia">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://youtube.com/@akshatgadodia9832">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" alt="YouTube"/>
+</a>
+
+<a href="https://stackoverflow.com/users/19216700">
+<img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."*
+
+⭐ **Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.**
+
+</div>
