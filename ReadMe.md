@@ -102,17 +102,6 @@ Learning and building applications using **LLMs, Retrieval-Augmented Generation 
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshatgadodia&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatgadodia&theme=tokyonight&hide_border=true" width="60%" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshatgadodia&theme=tokyonight&utcOffset=5.5" width="39%" height="180" />
-</p>
-
 # 📈 Contribution Graph
 
 <div align="center">
